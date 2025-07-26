@@ -1,0 +1,6 @@
+<svg width="192" height="192" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" fill="white"/>
+  <text x="50%" y="40%" text-anchor="middle" font-family="Arial" font-size="400" font-weight="bold">bill</text>
+  <line x1="50" y1="600" x2="1150" y2="600" stroke="black" stroke-width="40"/>
+  <text x="50%" y="85%" text-anchor="middle" font-family="Arial" font-size="400" font-weight="bold">banto</text>
+</svg>
