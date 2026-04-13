@@ -4,6 +4,8 @@
 
 Billbanto is a web app that makes it easy for groups to manage shared finances: splitting bills, tracking expenses, and settling up without the back-and-forth. Built with a modern React + TypeScript stack and powered by Supabase.
 
+Check it out at [bill.ajaowan.com](https://bill.ajaowan.com/)
+
 ---
 
 ## Features
